@@ -14,7 +14,7 @@
 ---
 
 ## 💼 Projects
-### 1. [Customer Churn Prediction](https://github.com/manishabalmiki/customer-churn-prediction)
+### 1. [Customer Churn Prediction]
 Used Logistic Regression and Random Forest to predict customer churn with 86% accuracy. Built a Power BI dashboard to visualize risk segments.
 
 #### 📌 Key Highlights
@@ -24,7 +24,7 @@ Used Logistic Regression and Random Forest to predict customer churn with 86% ac
 
 ---
 
-### 2. [Loan Prediction](https://github.com/manishabalmiki/loan-prediction)
+### 2. [Loan Prediction]
 Applied Decision Tree and Naïve Bayes models to predict loan approvals. Focused on handling missing values and visual storytelling.
 
 #### 📌 Key Highlights
@@ -34,7 +34,7 @@ Applied Decision Tree and Naïve Bayes models to predict loan approvals. Focused
 
 ---
 
-### 3. [Air Passenger Forecasting](https://github.com/manishabalmiki/air-passenger-forecasting)
+### 3. [Air Passenger Forecasting]
 Implemented ARIMA for monthly airline passenger forecasting with trend analysis and MSE evaluation.
 
 #### 📌 Key Highlights
@@ -44,7 +44,7 @@ Implemented ARIMA for monthly airline passenger forecasting with trend analysis 
 
 ---
 
-### 4. [Land Use Classification using CNN](https://github.com/manishabalmiki/land-use-cnn)
+### 4. [Land Use Classification using CNN]
 Developed a CNN using TensorFlow/Keras to classify satellite images by land use type. Achieved 88% accuracy.
 
 #### 📌 Key Highlights
